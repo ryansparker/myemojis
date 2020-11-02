@@ -24,6 +24,21 @@ h1 {
     font-size: 60px;
 }
 
+input {
+    margin: 0 auto;
+    display: block;
+    border: none;
+    height: 30px;
+    background: white;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.buttons-wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0 40px;
+}
 .magenta {
     background-color: magenta;
 }
